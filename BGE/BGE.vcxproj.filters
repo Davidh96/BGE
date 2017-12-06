@@ -212,6 +212,21 @@
     <ClCompile Include="Lab3.cpp">
       <Filter>Labs</Filter>
     </ClCompile>
+    <ClCompile Include="Bear.cpp">
+      <Filter>Prefabs</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>Prefabs</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Prefabs</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment1.cpp">
+      <Filter>Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="Stairs.cpp">
+      <Filter>Prefabs</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h">
@@ -377,6 +392,21 @@
       <Filter>Prefabs</Filter>
     </ClInclude>
     <ClInclude Include="Lab3.h">
+      <Filter>Labs</Filter>
+    </ClInclude>
+    <ClInclude Include="Bear.h">
+      <Filter>Prefabs</Filter>
+    </ClInclude>
+    <ClInclude Include="Stairs.h">
+      <Filter>Prefabs</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h">
+      <Filter>Prefabs</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Prefabs</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment1.h">
       <Filter>Labs</Filter>
     </ClInclude>
   </ItemGroup>

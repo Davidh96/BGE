@@ -99,7 +99,9 @@
     </CustomBuildStep>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Assignment1.cpp" />
     <ClCompile Include="AttackingState.cpp" />
+    <ClCompile Include="Bear.cpp" />
     <ClCompile Include="Buddha.cpp" />
     <ClCompile Include="Capsule.cpp" />
     <ClCompile Include="FlockingScenario.cpp" />
@@ -120,9 +122,11 @@
     <ClCompile Include="SceneGraphGame.cpp" />
     <ClCompile Include="SkeletonMapper.cpp" />
     <ClCompile Include="SnowEffect.cpp" />
+    <ClCompile Include="Stairs.cpp" />
     <ClCompile Include="State.cpp" />
     <ClCompile Include="SteeringGame.cpp" />
     <ClCompile Include="Transform.cpp" />
+    <ClCompile Include="Tree.cpp" />
     <ClCompile Include="Utils.cpp" />
     <ClCompile Include="Exception.cpp" />
     <ClCompile Include="Box.cpp" />
@@ -154,10 +158,13 @@
     <ClCompile Include="TriangleTest.cpp" />
     <ClCompile Include="VectorDrawer.cpp" />
     <ClCompile Include="VRGame2.cpp" />
+    <ClCompile Include="Wall.cpp" />
     <ClCompile Include="XBoxController.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Assignment1.h" />
     <ClInclude Include="AttackingState.h" />
+    <ClInclude Include="Bear.h" />
     <ClInclude Include="Buddha.h" />
     <ClInclude Include="Capsule.h" />
     <ClInclude Include="FlockingScenario.h" />
@@ -177,9 +184,11 @@
     <ClInclude Include="SceneGraphGame.h" />
     <ClInclude Include="SkeletonMapper.h" />
     <ClInclude Include="SnowEffect.h" />
+    <ClInclude Include="Stairs.h" />
     <ClInclude Include="State.h" />
     <ClInclude Include="SteeringGame.h" />
     <ClInclude Include="Transform.h" />
+    <ClInclude Include="Tree.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="dirent.h" />
     <ClInclude Include="Exception.h" />
@@ -211,6 +220,7 @@
     <ClInclude Include="TriangleTest.h" />
     <ClInclude Include="VectorDrawer.h" />
     <ClInclude Include="VRGame2.h" />
+    <ClInclude Include="Wall.h" />
     <ClInclude Include="XBoxController.h" />
   </ItemGroup>
   <ItemGroup>
